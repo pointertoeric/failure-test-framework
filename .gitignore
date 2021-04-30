@@ -1,0 +1,59 @@
+target/
+.externalToolBuilders/
+*.class
+*.project
+*.classpath
+*.settings/
+bin/
+target/
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+version.properties
+test-output/
+*.bak
+*.log*
+*.lnk
+*rebel.xml
+bin-debug/
+*.wav
+javascripts_compress/
+context.xml
+nb-configuration.xml
+/.DS_Store
+*.DS_Store
+.metadata
+simulationLog
+reports
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/
+
+**/*.pyc
+report.xml
+**/.cache
+**/__pycache__
+**/.idea
+
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+access_logs
+git_repo_tmp
+**/log.txt
+**/result.html
+*.pem
+
+
+

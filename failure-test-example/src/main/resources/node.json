@@ -1,0 +1,16 @@
+[
+  {
+    "host": "elasticsearch1",
+    "port": 9200,
+    "serviceName": "elasticsearch",
+    "sshKeyFile": "",
+    "sshUser": ""
+  },
+  {
+    "host": "elasticsearch2",
+    "port": 9200,
+    "serviceName": "elasticsearch",
+    "sshKeyFile": "",
+    "sshUser": ""
+  }
+]
